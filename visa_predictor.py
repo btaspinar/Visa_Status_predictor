@@ -9,7 +9,7 @@ import seaborn as sns
 
 # Set page configuration
 st.set_page_config(
-    page_title="Visa Acceptance Predictor",
+    page_title="Visa Acceptance Predictor for Austria",
     page_icon="🌎",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -64,7 +64,7 @@ st.markdown("""
 st.markdown('<h1 class="main-header">🌎 Visa Acceptance Predictor for Austria</h1>', unsafe_allow_html=True)
 st.markdown("""
 <div class="info-box">
-    This tool predicts the likelihood of your visa request being accepted based on various factors 
+    This tool predicts the likelihood of your visa request being accepted for Austria based on various factors 
     such as your personal details, travel history, and purpose of visit. Please fill out the form 
     below to get a prediction.
 </div>
