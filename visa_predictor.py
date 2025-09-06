@@ -61,7 +61,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and description
-st.markdown('<h1 class="main-header">🌎 Visa Acceptance Predictor</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">🌎 Visa Acceptance Predictor for Austria</h1>', unsafe_allow_html=True)
 st.markdown("""
 <div class="info-box">
     This tool predicts the likelihood of your visa request being accepted based on various factors 
